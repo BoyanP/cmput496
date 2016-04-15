@@ -1,0 +1,20 @@
+<html>
+<head>
+
+<link rel="manifest" href="filesToServe/manifest.json"/>
+<link rel="stylesheet" type="text/css" href="filesToServe/brickbreaker.css">
+<script src = "fileToServe/brickBreaker.js"></script>
+
+
+<title> 496 game</title>
+</head>
+
+<body>
+
+  <canvas id="gameCanvas"></canvas>
+
+
+
+</body>
+
+</html>
