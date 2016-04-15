@@ -1,0 +1,6 @@
+name, weight
+"Wait for Wattlog",0
+"load app",1
+"input tasks",1
+"delete tasks",1
+"Exit & Wait",1

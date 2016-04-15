@@ -1,0 +1,11 @@
+
+#gameCanvas{
+
+  margin-left:5%;
+  margin-right:5%;
+  width:500px;
+  height:500px;
+  border:1px;
+  border-style:solid;
+
+}

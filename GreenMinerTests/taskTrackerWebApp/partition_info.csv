@@ -1,0 +1,6 @@
+name,weight
+"Wait for Wattlog",0
+"get web App tasktracker",1
+"use taskTracker",1
+"delete input", 1 
+"Exit",1
